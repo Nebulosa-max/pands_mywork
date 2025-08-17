@@ -30,3 +30,16 @@
 - Q4: Dictionary with student grades
 - Q5: Interactive input for one student
 - Q6: Interactive input for multiple students
+
+What would you like to do?
+ (a) Add new student
+ (v) View students
+ (q) Quit
+Type one letter (a/v/q): a
+Enter student name: Bruna
+Enter the first Module name (blank to quit): Maths
+Enter grade (0–100): 89
+Enter next Module name (blank to quit): Irish
+Enter grade (0–100): 77
+Enter next Module name (blank to quit):
+# ... back to menu

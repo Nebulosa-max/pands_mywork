@@ -1,45 +1,32 @@
-# Lab 05 – Data Structures: Quiz Answers
+# Programming and Scripting Labs
 
-**a** int  
-**b** float  
-**c** bool  
-**d** str  
-**e** list  
-**f** tuple  
-**g** str  
-**h** dict  
-**i** list  
-**j** bool  
-**k** dict  
-**l** str  
-**m** dict  
-**n** list  
-**o** int  
-**p** KeyError (key is `"courseName"`, not `"coursename"`)
+This repository contains all lab exercises for the course.
 
-### Week 05 — Data Structures
-- Q2: Tuples (summer months)
-- Q3: List as a queue demo
-- Q4: Dictionary with student grades
-- Q5: Interactive input for one student
-- Q6: Interactive input for multiple students
+## Week 01 – Setup
+- No code required (setup of Anaconda, VS Code, Git)
 
-### Week 05 — Data Structures
-- Q2: Tuples (summer months)
-- Q3: List as a queue demo
-- Q4: Dictionary with student grades
-- Q5: Interactive input for one student
-- Q6: Interactive input for multiple students
+## Week 02 – First Programs
+- hello.py → prints "Hello"
+- hello2.py → prints a name and greeting
+- addOne.py → reads a number and adds 1
+- multiply.py → multiplies two numbers
 
-What would you like to do?
- (a) Add new student
- (v) View students
- (q) Quit
-Type one letter (a/v/q): a
-Enter student name: Bruna
-Enter the first Module name (blank to quit): Maths
-Enter grade (0–100): 89
-Enter next Module name (blank to quit): Irish
-Enter grade (0–100): 77
-Enter next Module name (blank to quit):
-# ... back to menu
+## Week 03 – Variables and Data Types
+- absolute.py → absolute value
+- convert.py → unit conversion
+- div.py → integer division
+- floor.py → floor division
+- stringOutput.py → string formatting
+- randomGenerator.py → random numbers
+
+## Week 04 – Flow Control
+- grade.py → check if grade is a pass
+- gradeExtra.py → extra grade conditions
+- isEven.py → check if a number is even
+
+## Week 05 – Data Structures
+- quiz_answers.md → Data types quiz
+- q2_summer_months.py → lists
+- q3_queue_demo.py → queues
+- q4_student_grades.py → student grades
+- q5_input_students.py → student input

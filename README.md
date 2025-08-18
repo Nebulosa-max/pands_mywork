@@ -30,3 +30,10 @@ This repository contains all lab exercises for the course.
 - q3_queue_demo.py → queues
 - q4_student_grades.py → student grades
 - q5_input_students.py → student input
+
+## Week 07 – File I/O, CSV & JSON
+- labs/week07-files/es.py — Counts the number of 'e's in a text file (takes filename as argument, with error handling).
+- labs/week07-files/students.json — Example JSON file with student data.
+- labs/week07-files/topic07_menu_json.py — Menu program using JSON for save/load.
+- labs/week07-files/writefile.py — Writes to text file with error handling.
+- Additional small scripts: quizzes and sample data.

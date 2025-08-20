@@ -1,0 +1,3 @@
+This file was written using Python.
+You’ll get there!
+Keep going, one step at a time

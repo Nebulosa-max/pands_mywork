@@ -1,0 +1,4 @@
+Hello, Python!
+You're doing amazing.
+This is a file being read.
+Line by line. 
